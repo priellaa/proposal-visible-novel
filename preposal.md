@@ -2,11 +2,11 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+A Visual Novel on Renpy
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+I do not plan to collaborate
 
 ## Do you have any questions of your own?
 
